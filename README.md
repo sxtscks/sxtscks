@@ -1,8 +1,7 @@
 ### Всем привет 👋 Меня зовут Кирилл и я Fullstack-разработчик
 - 🔭 Я в поиске интересных предложений
-- 🌱 Изучаю React JS, TypeScript, Node JS, Express.js.
 - 📫 Моя почта: cvj.sp.bk@gmail.com
-- 🤔 Мой телеграмм: @sxtscks
+- 🤔 Мой telegram: @sxtscks
 
 
 ![CodeWars](https://www.codewars.com/users/sxtscks/badges/large)
